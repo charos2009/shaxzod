@@ -77,6 +77,7 @@ a:hover{
 li{
   /* margin-right: 100px; */
   list-style: none;
+  /* margin-left: 90px; */
 }
 .haptak{
   display: flex;
@@ -122,11 +123,11 @@ nav ul{
   color: white;
   background-color: rgb(5, 5, 5);
   border: 1px solid white;
-  width: 139px;
-  height: 48px;
-  font-size: 18px;
+  width: 130px;
+  height: 40px;
+  font-size: 15px;
   cursor: pointer;
-  /* margin-right: 300px; */
+  margin-left: 90px;
 }
 
 body{
@@ -219,7 +220,7 @@ cursor: pointer;
 .imgs{
   width: 752px;
   height: 759px;
-  margin-left: 35px;
+  margin-left: 79px;
   margin-top: 30px;
 }
 h3{

@@ -10,7 +10,7 @@ function Featurehome(){
             <p className='mosts'>Most calendars are designed for teams. Slate is designed for 
                 freelancers who want a simple way to plan their schedule.</p>
 
-                <img className='imgs' src={rasm2}/>
+                <img  className='imgs' src={rasm2}/>
                 <div  className='venop'>
                     <div className='venop1'>
                     <img src= {icon1}/>
