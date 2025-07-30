@@ -66,6 +66,8 @@ body {
 .container1{
     max-width: 1368px;
   margin: 0 auto;
+  display: flex;
+  justify-content: center;
   
   margin-top: 90px;
 }
