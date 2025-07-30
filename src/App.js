@@ -46,7 +46,9 @@ import Login from './pages/Login'; // to‘g‘ri path bo‘yicha
 function App() {
   return (
     <Router>
+      <div className='haptak'>
       <Navbar />
+      </div>
       <Routes>
         <Route path="/" element={<Home1 />} />
         <Route path="/product" element={<Product />} />

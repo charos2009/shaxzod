@@ -17,15 +17,18 @@ function Navbar() {
       <img src={logo} alt="Logo" className="logo" />
 
       <ul className="font">
+        <div className='charos'>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/product">Product</Link></li>
         <li><Link to="/about">About</Link></li>
         <li><Link to="/contact">Contact</Link></li>
-      </ul>
-
-      <div className="bat">
+        </div>
+              <div className="bat">
         <button onClick={handleLoginClick} className="button">Login</button>
       </div>
+      </ul>
+
+
     </nav>
   );
 }
