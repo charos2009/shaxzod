@@ -39,7 +39,7 @@
  */
 
 
-body, html {
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -64,6 +64,7 @@ body, html {
 .container1{
     max-width: 1368px;
   margin: 0 auto;
+  
   margin-top: 90px;
 }
 a{
