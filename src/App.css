@@ -55,13 +55,15 @@ body, html {
   padding: 0;
   box-sizing: border-box;
 }
-/* .container{ */
-  /* margin-top: 90px; */
-  /* max-width: 1368px; */
-  /* margin: 0 auto; */
+.container{
+  margin-top: 90px;
+  max-width: 1368px;
+  margin: 0 auto;
 
-/* } */
+}
 .container1{
+    max-width: 1368px;
+  margin: 0 auto;
   margin-top: 90px;
 }
 a{
