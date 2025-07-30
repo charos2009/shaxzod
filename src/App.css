@@ -158,7 +158,7 @@ height: 196px;
 text-align: center;
 font-size: 70px;
 display: flex;
-margin-left: 370px;
+/* margin-left: 370px; */
 /* justify-content: center; */
 /* align-items: center; */
 }
