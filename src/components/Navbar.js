@@ -10,9 +10,9 @@ function Navbar() {
   };
 
   return (
-    <nav className="flex items-center justify-between px-6 h-20 bg-black text-white">
+    <nav className="flex items-center justify-between  px-6 h-20 bg-black text-white">
       {/* Logo */}
-      <img src={logo} alt="Logo" className="h-18 mr-5 mb-4 " />
+      <img src={logo} alt="Logo" className="h-18 mr-5 mb-4 mt-[4px] " />
 
       {/* Menu */}
       <ul className="flex space-x-6">
